@@ -7,6 +7,9 @@ supporting arch `armv7a` & `x86`
 ```shell
 git clone https://github.com/george5613/libtorrent-ndk-toolchain.git
 cd libtorrent-ndk-toolchain
+
+# android ndk r21d
+export ANDROID_NDK_ROOT=${ANDROID_NDK}
 ./build_libtorrent.sh armv7a|x86
 
 ```
