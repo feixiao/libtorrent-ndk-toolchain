@@ -1,1 +1,3 @@
-toolchain-*
+build/
+toolchain/
+libtorrent-rasterbar-1.2.12/
